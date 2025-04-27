@@ -1,4 +1,4 @@
-# Portifolio de resoluções utilizando linguagem C
+# Resoluções utilizando linguagem C
 🔎 Nesse repositório você irá encontrar resoluções de problemas envolvendo linguagem C formulados por diferentes bancas de concurso e vestibulares. 
 
 Tais soluções envolvem o uso de:\
